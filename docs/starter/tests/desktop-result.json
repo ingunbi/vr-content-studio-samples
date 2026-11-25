@@ -1,0 +1,31 @@
+{
+  "browser": "158.0.8127.88",
+  "viewport": [
+    1360,
+    820
+  ],
+  "highCenterCSS": [
+    614.532719046869,
+    385.484375
+  ],
+  "lowCenterCSS": [
+    614.532719046869,
+    351.0279113404574
+  ],
+  "shutter": {
+    "id": "mask",
+    "distance": 5.011662811264617
+  },
+  "uncovered": {
+    "id": "ochre",
+    "distance": 6.02411994500582
+  },
+  "stage4Desktop": {
+    "count": 1,
+    "last": "ochre",
+    "held": 0,
+    "presenting": false,
+    "button": "VR 기기 필요"
+  },
+  "errors": []
+}

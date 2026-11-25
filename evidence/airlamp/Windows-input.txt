@@ -1,0 +1,11 @@
+HWND-targeted WM_KEYDOWN/WM_KEYUP
+initial: 
+aim_lamp: Four
+lamp: Enter
+duplicate: Enter
+door: One,Enter
+complete: Two,Enter
+aim_reset: Three
+reset: Enter
+partial: Two,Enter
+partial_reset: Three,Enter

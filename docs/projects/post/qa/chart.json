@@ -1,0 +1,58 @@
+{
+  "download": {
+    "departure": 0,
+    "actions": [
+      "bell",
+      "east",
+      "buoy",
+      "home"
+    ],
+    "ok": true,
+    "rows": [
+      {
+        "from": "home",
+        "to": "bell",
+        "wait": false,
+        "start": 0,
+        "end": 3,
+        "mail": true,
+        "complete": false
+      },
+      {
+        "from": "bell",
+        "to": "east",
+        "wait": false,
+        "start": 3,
+        "end": 6,
+        "mail": true,
+        "complete": false
+      },
+      {
+        "from": "east",
+        "to": "buoy",
+        "wait": false,
+        "start": 6,
+        "end": 10,
+        "mail": false,
+        "complete": false
+      },
+      {
+        "from": "buoy",
+        "to": "home",
+        "wait": false,
+        "start": 10,
+        "end": 12,
+        "mail": false,
+        "complete": true
+      }
+    ],
+    "from": "home",
+    "minute": 12,
+    "complete": true
+  },
+  "initialHandoff": true,
+  "invalidRejected": true,
+  "phaseChangeTrimmed": 3,
+  "errors": [],
+  "browser": "158.0.8127.88"
+}

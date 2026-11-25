@@ -1,0 +1,99 @@
+[
+  {
+    "start": 0,
+    "shortest": 12,
+    "withoutWait": 12,
+    "withoutShoal": 15,
+    "example": [
+      "bell",
+      "east",
+      "buoy",
+      "home"
+    ]
+  },
+  {
+    "start": 1,
+    "shortest": 13,
+    "withoutWait": 13,
+    "withoutShoal": 15,
+    "example": [
+      "wait",
+      "buoy",
+      "east",
+      "bell",
+      "home"
+    ]
+  },
+  {
+    "start": 2,
+    "shortest": 12,
+    "withoutWait": 12,
+    "withoutShoal": 15,
+    "example": [
+      "buoy",
+      "east",
+      "bell",
+      "home"
+    ]
+  },
+  {
+    "start": 3,
+    "shortest": 12,
+    "withoutWait": 12,
+    "withoutShoal": 15,
+    "example": [
+      "buoy",
+      "east",
+      "bell",
+      "home"
+    ]
+  },
+  {
+    "start": 4,
+    "shortest": 12,
+    "withoutWait": 12,
+    "withoutShoal": 15,
+    "example": [
+      "buoy",
+      "east",
+      "bell",
+      "home"
+    ]
+  },
+  {
+    "start": 5,
+    "shortest": 12,
+    "withoutWait": 12,
+    "withoutShoal": 15,
+    "example": [
+      "buoy",
+      "east",
+      "bell",
+      "home"
+    ]
+  },
+  {
+    "start": 6,
+    "shortest": 12,
+    "withoutWait": 12,
+    "withoutShoal": 15,
+    "example": [
+      "bell",
+      "east",
+      "buoy",
+      "home"
+    ]
+  },
+  {
+    "start": 7,
+    "shortest": 12,
+    "withoutWait": 12,
+    "withoutShoal": 15,
+    "example": [
+      "bell",
+      "east",
+      "buoy",
+      "home"
+    ]
+  }
+]

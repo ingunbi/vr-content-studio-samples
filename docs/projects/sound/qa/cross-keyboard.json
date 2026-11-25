@@ -1,0 +1,45 @@
+{
+  "browser": "158.0.8127.88",
+  "viewport": [
+    1440,
+    900
+  ],
+  "checks": [
+    "repair first Tab focuses canvas",
+    "wrong repair orientation rejected",
+    "all three parts mounted with keyboard",
+    "reference peak is 510 nm",
+    "R resets station",
+    "sound first Tab focuses canvas",
+    "act two bell level four on right",
+    "silent performance started by keyboard",
+    "Space stops performance and preserves edit",
+    "gallery first Tab focuses canvas",
+    "gallery enters at floor",
+    "Enter opens centre artwork",
+    "Tab reaches tide selector",
+    "keyboard changes departure to phase one",
+    "departure restored to zero",
+    "Tab reaches wait button",
+    "one wait adds one row",
+    "undo removes wait using keyboard",
+    "no uncaught page error"
+  ],
+  "navigation": "Playwright keyboard.press and read-only DOM or studioProbe.state",
+  "excluded": [
+    "Unreal desktop",
+    "immersive headset",
+    "assistive technology",
+    "observation by human participants"
+  ],
+  "web_sha256": {
+    "studio.mjs": "c066f8ec1b217c100eebd9889917f76c579c6c440136cd83d879c6bf5e356309",
+    "projects/repair/scene.mjs": "8cc77a304407fb1a0920ca3102d8f2e93912d2a77b704b3c9383218ea08950b0",
+    "projects/repair/model.mjs": "fc5478a3060f4f72dd13cb0453898569813222515039a13294f92c645902f683",
+    "projects/sound/scene.mjs": "d626ab12c49fd07a64ab72f4a6d4d2108e0923275fce45f2c8e94afa8941135a",
+    "projects/gallery/scene.mjs": "d23c2b248343916d709d03f56d7b97d3bde173a494f3b825596673e62cdba7f7",
+    "projects/post/chart.html": "7397db8c2ad1012d5a92395d64045867fc7af31345c715c8058dc102cc5a2759",
+    "projects/post/chart.mjs": "17297a5abea66b6ad85cbb4acc4e8d5ef6e01dbdb590c00d15f1934c485c3644"
+  },
+  "source": "web directory"
+}

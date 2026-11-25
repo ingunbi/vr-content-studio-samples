@@ -1,0 +1,13 @@
+{
+  "desktop": true,
+  "syntheticCancellation": true,
+  "passed": [
+    "cancelled drag retains selected angle without seating",
+    "fresh click seats after cancellation",
+    "B plus 17 cm rejected",
+    "B plus 14 cm accepted",
+    "reset cancels a pending scan",
+    "1280 x 800 all 13 centers reachable",
+    "960 x 720 all 13 centers reachable"
+  ]
+}

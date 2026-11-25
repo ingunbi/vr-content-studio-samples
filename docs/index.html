@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>VR 가상현실 콘텐츠 제작 · 작품실</title><link rel="stylesheet" href="./studio.css"></head>
+<body>
+<main id="library" hidden>
+  <header><div class="imprint">아이스큐브랩 · 김인권</div><h1>VR 작품실</h1><p>공간 전시, 광학 장비, 한밤의 공연과 섬을 잇는 우편 항로.</p></header>
+  <nav class="works" aria-label="실행할 작품">
+    <a href="?project=gallery"><img src="previews/gallery.jpg" alt="달의 기록관 전시장"><h2>달의 기록관</h2><p>세 전시물의 단서를 읽고 나만의 전시 순서와 해설을 정한다.</p><strong>전시장 입장 ↗</strong></a>
+    <a href="?project=repair"><img src="previews/repair.jpg" alt="궤도 정비소 조립 작업대"><h2>궤도 정비소</h2><p>관측 장비의 부품을 옮기고 돌려 끼운 뒤 광로를 시험한다.</p><strong>작업대 열기 ↗</strong></a>
+    <a href="?project=sound"><img src="previews/sound.jpg" alt="비 오는 밤의 소리극장 무대"><h2>비 오는 밤의 소리극장</h2><p>빗소리와 종, 막차 소리를 배치해 짧은 공연을 연주한다.</p><strong>극장 입장 ↗</strong></a>
+    <a href="?project=post"><img src="previews/post.jpg" alt="등대와 종탑섬을 잇는 우편선"><h2>해협 우편선</h2><p>물때를 읽고 항로를 그려 두 섬에 편지를 배달한다.</p><strong>본항으로 ↗</strong></a>
+  </nav>
+  <p class="starter"><a href="starter/index.html">카메라와 광선부터 만들기 · 시선 측정실 4단계 →</a></p>
+</main>
+<main id="player" hidden><div id="stage"></div>
+  <header class="toolbar"><a href="./">← 작품실</a><h1 id="name"></h1><div class="tools"><button id="help" aria-expanded="false">조작</button><button id="reset">처음부터</button><button id="enterVR" disabled>VR 확인 중</button></div></header>
+  <aside id="guide" hidden>마우스로 대상을 누르세요. 오른쪽 버튼을 누른 채 끌거나 방향키로 시선을 돌립니다. 화면 중앙을 조준할 때는 Enter로 누르고 뗄 수 있습니다. VR에서는 컨트롤러로 가리키고 트리거를 사용하세요.</aside>
+  <section id="hud" aria-label="작품 진행"><b id="title"></b><span id="subtitle"></span><small id="focus"></small></section>
+  <p id="notice" role="status" aria-live="polite"></p>
+</main>
+<script type="module" src="./studio.mjs"></script></body></html>

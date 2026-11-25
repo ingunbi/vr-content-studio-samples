@@ -1,0 +1,275 @@
+{
+  "browser": "158.0.8127.88",
+  "input": "mouse pointer; rendered WebGL",
+  "states": [
+    {
+      "action": "east",
+      "state": {
+        "at": "home",
+        "plan": [],
+        "time": 0,
+        "mode": "plan",
+        "leg": null,
+        "delivered": [],
+        "log": [],
+        "message": "지도에서 선으로 이어진 이웃 지점을 고르세요."
+      }
+    },
+    {
+      "action": "buoy",
+      "state": {
+        "at": "home",
+        "plan": [
+          "buoy"
+        ],
+        "time": 0,
+        "mode": "plan",
+        "leg": null,
+        "delivered": [],
+        "log": [],
+        "message": "흰 부표 기항을 예정표에 넣었습니다."
+      }
+    },
+    {
+      "action": "east",
+      "state": {
+        "at": "home",
+        "plan": [
+          "buoy",
+          "east"
+        ],
+        "time": 0,
+        "mode": "plan",
+        "leg": null,
+        "delivered": [],
+        "log": [],
+        "message": "동쪽 등대 기항을 예정표에 넣었습니다."
+      }
+    },
+    {
+      "action": "bell",
+      "state": {
+        "at": "home",
+        "plan": [
+          "buoy",
+          "east"
+        ],
+        "time": 0,
+        "mode": "plan",
+        "leg": null,
+        "delivered": [],
+        "log": [],
+        "message": "간조입니다. 흰 부표로 돌아가거나 한 분 기다리세요."
+      }
+    },
+    {
+      "action": "wait",
+      "state": {
+        "at": "home",
+        "plan": [
+          "buoy",
+          "east",
+          "wait"
+        ],
+        "time": 0,
+        "mode": "plan",
+        "leg": null,
+        "delivered": [],
+        "log": [],
+        "message": "예정표에 1분 대기를 넣었습니다."
+      }
+    },
+    {
+      "action": "wait",
+      "state": {
+        "at": "home",
+        "plan": [
+          "buoy",
+          "east",
+          "wait",
+          "wait"
+        ],
+        "time": 0,
+        "mode": "plan",
+        "leg": null,
+        "delivered": [],
+        "log": [],
+        "message": "예정표에 1분 대기를 넣었습니다."
+      }
+    },
+    {
+      "action": "bell",
+      "state": {
+        "at": "home",
+        "plan": [
+          "buoy",
+          "east",
+          "wait",
+          "wait",
+          "bell"
+        ],
+        "time": 0,
+        "mode": "plan",
+        "leg": null,
+        "delivered": [],
+        "log": [],
+        "message": "종탑섬 기항을 예정표에 넣었습니다."
+      }
+    },
+    {
+      "action": "home",
+      "state": {
+        "at": "home",
+        "plan": [
+          "buoy",
+          "east",
+          "wait",
+          "wait",
+          "bell",
+          "home"
+        ],
+        "time": 0,
+        "mode": "plan",
+        "leg": null,
+        "delivered": [],
+        "log": [],
+        "message": "본항 기항을 예정표에 넣었습니다."
+      }
+    },
+    {
+      "action": "go",
+      "state": {
+        "at": "home",
+        "plan": [
+          "east",
+          "wait",
+          "wait",
+          "bell",
+          "home"
+        ],
+        "time": 0,
+        "mode": "sail",
+        "leg": {
+          "from": "home",
+          "to": "buoy",
+          "wait": false,
+          "duration": 2,
+          "elapsed": 0.08329999999999975
+        },
+        "delivered": [],
+        "log": [],
+        "message": "운항 중 · 흰 부표"
+      }
+    },
+    {
+      "action": "again",
+      "state": {
+        "at": "home",
+        "plan": [],
+        "time": 0,
+        "mode": "plan",
+        "leg": null,
+        "delivered": [],
+        "log": [],
+        "message": "종탑섬과 동쪽 등대에 편지를 전하고 본항으로 돌아오세요."
+      }
+    },
+    {
+      "action": "bell",
+      "state": {
+        "at": "home",
+        "plan": [
+          "bell"
+        ],
+        "time": 0,
+        "mode": "plan",
+        "leg": null,
+        "delivered": [],
+        "log": [],
+        "message": "종탑섬 기항을 예정표에 넣었습니다."
+      }
+    },
+    {
+      "action": "east",
+      "state": {
+        "at": "home",
+        "plan": [
+          "bell",
+          "east"
+        ],
+        "time": 0,
+        "mode": "plan",
+        "leg": null,
+        "delivered": [],
+        "log": [],
+        "message": "동쪽 등대 기항을 예정표에 넣었습니다."
+      }
+    },
+    {
+      "action": "undo",
+      "state": {
+        "at": "home",
+        "plan": [
+          "bell"
+        ],
+        "time": 0,
+        "mode": "plan",
+        "leg": null,
+        "delivered": [],
+        "log": [],
+        "message": "마지막 예정 한 칸을 되돌렸습니다."
+      }
+    }
+  ],
+  "finished": {
+    "at": "home",
+    "plan": [],
+    "time": 14,
+    "mode": "done",
+    "leg": null,
+    "delivered": [
+      "east",
+      "bell"
+    ],
+    "log": [
+      {
+        "at": "buoy",
+        "minute": 2,
+        "wait": false,
+        "delivered": false
+      },
+      {
+        "at": "east",
+        "minute": 6,
+        "wait": false,
+        "delivered": true
+      },
+      {
+        "at": "east",
+        "minute": 7,
+        "wait": true,
+        "delivered": false
+      },
+      {
+        "at": "east",
+        "minute": 8,
+        "wait": true,
+        "delivered": false
+      },
+      {
+        "at": "bell",
+        "minute": 11,
+        "wait": false,
+        "delivered": true
+      },
+      {
+        "at": "home",
+        "minute": 14,
+        "wait": false,
+        "delivered": false
+      }
+    ],
+    "message": "배달 완료 · 본항 귀환 · 14분 운항"
+  },
+  "errors": []
+}

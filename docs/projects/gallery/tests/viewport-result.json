@@ -1,0 +1,20 @@
+[
+  {
+    "viewport": [
+      1280,
+      800
+    ],
+    "ringInitiallyInView": true,
+    "leftTurns": 0,
+    "opened": "ring"
+  },
+  {
+    "viewport": [
+      600,
+      900
+    ],
+    "ringInitiallyInView": false,
+    "leftTurns": 2,
+    "opened": "ring"
+  }
+]

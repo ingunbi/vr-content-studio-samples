@@ -1,0 +1,184 @@
+{
+  "mode": "PIE",
+  "steps": [
+    {
+      "stage": "initial",
+      "expectedIDs": [],
+      "observedSet": "()",
+      "confirmed": {
+        "DoorLock": false,
+        "Breaker": false,
+        "AirLamp": false
+      },
+      "texts": {
+        "Progress": "0/3",
+        "DoorState": "문 잠금장치 · 미확인",
+        "BreakerState": "차단기 · 미확인",
+        "AirState": "공조 표시등 · 미확인"
+      }
+    },
+    {
+      "stage": "aim_lamp",
+      "expectedIDs": [],
+      "observedSet": "()",
+      "confirmed": {
+        "DoorLock": false,
+        "Breaker": false,
+        "AirLamp": false
+      },
+      "texts": {
+        "Progress": "0/3",
+        "DoorState": "문 잠금장치 · 미확인",
+        "BreakerState": "차단기 · 미확인",
+        "AirState": "공조 표시등 · 미확인"
+      }
+    },
+    {
+      "stage": "lamp",
+      "expectedIDs": [
+        "AirLamp"
+      ],
+      "observedSet": "(\"AirLamp\")",
+      "confirmed": {
+        "DoorLock": false,
+        "Breaker": false,
+        "AirLamp": true
+      },
+      "texts": {
+        "Progress": "1/3",
+        "DoorState": "문 잠금장치 · 미확인",
+        "BreakerState": "차단기 · 미확인",
+        "AirState": "공조 표시등 · 확인"
+      }
+    },
+    {
+      "stage": "duplicate",
+      "expectedIDs": [
+        "AirLamp"
+      ],
+      "observedSet": "(\"AirLamp\")",
+      "confirmed": {
+        "DoorLock": false,
+        "Breaker": false,
+        "AirLamp": true
+      },
+      "texts": {
+        "Progress": "1/3",
+        "DoorState": "문 잠금장치 · 미확인",
+        "BreakerState": "차단기 · 미확인",
+        "AirState": "공조 표시등 · 확인"
+      }
+    },
+    {
+      "stage": "door",
+      "expectedIDs": [
+        "AirLamp",
+        "DoorLock"
+      ],
+      "observedSet": "(\"AirLamp\",\"DoorLock\")",
+      "confirmed": {
+        "DoorLock": true,
+        "Breaker": false,
+        "AirLamp": true
+      },
+      "texts": {
+        "Progress": "2/3",
+        "DoorState": "문 잠금장치 · 확인",
+        "BreakerState": "차단기 · 미확인",
+        "AirState": "공조 표시등 · 확인"
+      }
+    },
+    {
+      "stage": "complete",
+      "expectedIDs": [
+        "AirLamp",
+        "DoorLock",
+        "Breaker"
+      ],
+      "observedSet": "(\"AirLamp\",\"DoorLock\",\"Breaker\")",
+      "confirmed": {
+        "DoorLock": true,
+        "Breaker": true,
+        "AirLamp": true
+      },
+      "texts": {
+        "Progress": "3/3 · 점검 완료",
+        "DoorState": "문 잠금장치 · 확인",
+        "BreakerState": "차단기 · 확인",
+        "AirState": "공조 표시등 · 확인"
+      }
+    },
+    {
+      "stage": "aim_reset",
+      "expectedIDs": [
+        "AirLamp",
+        "DoorLock",
+        "Breaker"
+      ],
+      "observedSet": "(\"AirLamp\",\"DoorLock\",\"Breaker\")",
+      "confirmed": {
+        "DoorLock": true,
+        "Breaker": true,
+        "AirLamp": true
+      },
+      "texts": {
+        "Progress": "3/3 · 점검 완료",
+        "DoorState": "문 잠금장치 · 확인",
+        "BreakerState": "차단기 · 확인",
+        "AirState": "공조 표시등 · 확인"
+      }
+    },
+    {
+      "stage": "reset",
+      "expectedIDs": [],
+      "observedSet": "()",
+      "confirmed": {
+        "DoorLock": false,
+        "Breaker": false,
+        "AirLamp": false
+      },
+      "texts": {
+        "Progress": "0/3",
+        "DoorState": "문 잠금장치 · 미확인",
+        "BreakerState": "차단기 · 미확인",
+        "AirState": "공조 표시등 · 미확인"
+      }
+    },
+    {
+      "stage": "partial",
+      "expectedIDs": [
+        "Breaker"
+      ],
+      "observedSet": "(\"Breaker\")",
+      "confirmed": {
+        "DoorLock": false,
+        "Breaker": true,
+        "AirLamp": false
+      },
+      "texts": {
+        "Progress": "1/3",
+        "DoorState": "문 잠금장치 · 미확인",
+        "BreakerState": "차단기 · 확인",
+        "AirState": "공조 표시등 · 미확인"
+      }
+    },
+    {
+      "stage": "partial_reset",
+      "expectedIDs": [],
+      "observedSet": "()",
+      "confirmed": {
+        "DoorLock": false,
+        "Breaker": false,
+        "AirLamp": false
+      },
+      "texts": {
+        "Progress": "0/3",
+        "DoorState": "문 잠금장치 · 미확인",
+        "BreakerState": "차단기 · 미확인",
+        "AirState": "공조 표시등 · 미확인"
+      }
+    }
+  ],
+  "errors": [],
+  "physicalHeadset": false
+}

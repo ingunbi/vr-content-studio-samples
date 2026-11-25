@@ -1,0 +1,62 @@
+{
+  "result": "PASS",
+  "scenario": "Standalone UE game; no headset, -nohmd -nullrhi, VR mode (no -DesktopInspection)",
+  "input": "UE console key down/up Enter; frame observations recorded below",
+  "logged_frames_before_after": {
+    "desktop_debug": [
+      55,
+      132
+    ],
+    "input_registered": [
+      55,
+      132
+    ],
+    "focused_actor": [
+      55,
+      132
+    ],
+    "right_aim": [
+      55,
+      132
+    ],
+    "pointer": [
+      55,
+      139
+    ],
+    "session": [
+      55,
+      157
+    ],
+    "target_0": [
+      60,
+      158
+    ],
+    "target_1": [
+      72,
+      158
+    ],
+    "live_widget": [
+      100,
+      158
+    ],
+    "tracked_function": [
+      55,
+      132
+    ]
+  },
+  "observed_before_and_after": {
+    "desktop_debug": "BP_VRInspectionPawn_C_0.bDesktopDebug = False",
+    "input_registered": "BP_VRInspectionPawn_C_0.bInspectionInputReady = True",
+    "focused_actor": "BP_VRInspectionPawn_C_0.FocusedActor = None",
+    "right_aim": "MotionControllerRightAim.CurrentTrackingStatus = NotTracked",
+    "pointer": "InspectionPointer.bVisible = False",
+    "session": "BP_InspectionSession_C_0.ConfirmedTargets = ()",
+    "target_0": "BP_InspectionTarget_C_0.bConfirmed = False",
+    "target_1": "BP_InspectionTarget_C_1.bConfirmed = False",
+    "live_widget": "WBP_InspectionStatus_C_0.WidgetTree_0.Progress.Text = INVTEXT(\"0/2\")",
+    "tracked_function": "VR_NO_DEVICE right_aim.is_tracked=False"
+  },
+  "confirm_started_events": 0,
+  "asset_hashes": "hashes.json",
+  "physical_device": false
+}

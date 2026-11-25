@@ -1,0 +1,23 @@
+HWND-targeted WM_KEYDOWN/WM_KEYUP
+initial: 
+aim_door: One
+one_degree_right: Right
+one_degree_left: Left
+empty_aim: Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right
+empty_enter: Enter
+door: One,Enter
+duplicate_door: Enter
+aim_breaker: Two
+complete: Enter
+aim_reset: Three
+reset: Enter
+breaker_first: Two,Enter
+repeat_complete: One,Enter
+repeat_reset: Three,Enter
+partial: One,Enter
+partial_reset: Three,Enter
+hold_enter: One,EnterDown
+aim_while_held: Two
+release_enter: EnterUp
+press_again: Enter
+final_reset: Three,Enter

@@ -1,0 +1,1526 @@
+{
+  "browser": "158.0.8127.88",
+  "viewport": [
+    1280,
+    800
+  ],
+  "framesPerSample": 8,
+  "works": {
+    "gallery": {
+      "base": [
+        {
+          "calls": 303,
+          "triangles": 24810,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 303,
+          "triangles": 24810,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 303,
+          "triangles": 24810,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 303,
+          "triangles": 24810,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 303,
+          "triangles": 24810,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 303,
+          "triangles": 24810,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 303,
+          "triangles": 24810,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 303,
+          "triangles": 24810,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        }
+      ],
+      "reducedDPR": [
+        {
+          "calls": 303,
+          "triangles": 24810,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 303,
+          "triangles": 24810,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 303,
+          "triangles": 24810,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 303,
+          "triangles": 24810,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 303,
+          "triangles": 24810,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 303,
+          "triangles": 24810,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 303,
+          "triangles": 24810,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 303,
+          "triangles": 24810,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 960,
+          "h": 600
+        }
+      ],
+      "hiddenPanels": [
+        {
+          "calls": 298,
+          "triangles": 24800,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 298,
+          "triangles": 24800,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 298,
+          "triangles": 24800,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 298,
+          "triangles": 24800,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 298,
+          "triangles": 24800,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 298,
+          "triangles": 24800,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 298,
+          "triangles": 24800,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 298,
+          "triangles": 24800,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        }
+      ],
+      "panels": 5,
+      "restored": [
+        {
+          "calls": 303,
+          "triangles": 24810,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 303,
+          "triangles": 24810,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 303,
+          "triangles": 24810,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 303,
+          "triangles": 24810,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 303,
+          "triangles": 24810,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 303,
+          "triangles": 24810,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 303,
+          "triangles": 24810,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 303,
+          "triangles": 24810,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        }
+      ],
+      "narrowFOV": [
+        {
+          "calls": 302,
+          "triangles": 24778,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 302,
+          "triangles": 24778,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 302,
+          "triangles": 24778,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 302,
+          "triangles": 24778,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 302,
+          "triangles": 24778,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 302,
+          "triangles": 24778,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 302,
+          "triangles": 24778,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 302,
+          "triangles": 24778,
+          "lines": 0,
+          "textures": 6,
+          "geometries": 303,
+          "w": 1280,
+          "h": 800
+        }
+      ],
+      "css": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 800
+      }
+    },
+    "repair": {
+      "base": [
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        }
+      ],
+      "reducedDPR": [
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 960,
+          "h": 600
+        }
+      ],
+      "hiddenPanels": [
+        {
+          "calls": 100,
+          "triangles": 12128,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 100,
+          "triangles": 12128,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 100,
+          "triangles": 12128,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 100,
+          "triangles": 12128,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 100,
+          "triangles": 12128,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 100,
+          "triangles": 12128,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 100,
+          "triangles": 12128,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 100,
+          "triangles": 12128,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        }
+      ],
+      "panels": 17,
+      "restored": [
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        }
+      ],
+      "narrowFOV": [
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 117,
+          "triangles": 12162,
+          "lines": 0,
+          "textures": 18,
+          "geometries": 117,
+          "w": 1280,
+          "h": 800
+        }
+      ],
+      "css": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 800
+      }
+    },
+    "sound": {
+      "base": [
+        {
+          "calls": 150,
+          "triangles": 4042,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 150,
+          "triangles": 4042,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 150,
+          "triangles": 4042,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 150,
+          "triangles": 4042,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 150,
+          "triangles": 4042,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 150,
+          "triangles": 4042,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 150,
+          "triangles": 4042,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 150,
+          "triangles": 4042,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        }
+      ],
+      "reducedDPR": [
+        {
+          "calls": 150,
+          "triangles": 4042,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 150,
+          "triangles": 4042,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 150,
+          "triangles": 4042,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 150,
+          "triangles": 4042,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 150,
+          "triangles": 4042,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 150,
+          "triangles": 4042,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 150,
+          "triangles": 4042,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 150,
+          "triangles": 4042,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 960,
+          "h": 600
+        }
+      ],
+      "hiddenPanels": [
+        {
+          "calls": 135,
+          "triangles": 4012,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 135,
+          "triangles": 4012,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 135,
+          "triangles": 4012,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 135,
+          "triangles": 4012,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 135,
+          "triangles": 4012,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 135,
+          "triangles": 4012,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 135,
+          "triangles": 4012,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 135,
+          "triangles": 4012,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        }
+      ],
+      "panels": 15,
+      "restored": [
+        {
+          "calls": 150,
+          "triangles": 4042,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 150,
+          "triangles": 4042,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 150,
+          "triangles": 4042,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 150,
+          "triangles": 4042,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 150,
+          "triangles": 4042,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 150,
+          "triangles": 4042,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 150,
+          "triangles": 4042,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 150,
+          "triangles": 4042,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        }
+      ],
+      "narrowFOV": [
+        {
+          "calls": 126,
+          "triangles": 3646,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 126,
+          "triangles": 3646,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 126,
+          "triangles": 3646,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 126,
+          "triangles": 3646,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 126,
+          "triangles": 3646,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 126,
+          "triangles": 3646,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 126,
+          "triangles": 3646,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 126,
+          "triangles": 3646,
+          "lines": 108,
+          "textures": 15,
+          "geometries": 150,
+          "w": 1280,
+          "h": 800
+        }
+      ],
+      "css": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 800
+      }
+    },
+    "post": {
+      "base": [
+        {
+          "calls": 410,
+          "triangles": 9166,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 410,
+          "triangles": 9166,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 410,
+          "triangles": 9166,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 410,
+          "triangles": 9166,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 410,
+          "triangles": 9166,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 410,
+          "triangles": 9166,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 410,
+          "triangles": 9166,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 410,
+          "triangles": 9166,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        }
+      ],
+      "reducedDPR": [
+        {
+          "calls": 410,
+          "triangles": 9166,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 410,
+          "triangles": 9166,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 410,
+          "triangles": 9166,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 410,
+          "triangles": 9166,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 410,
+          "triangles": 9166,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 410,
+          "triangles": 9166,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 410,
+          "triangles": 9166,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 960,
+          "h": 600
+        },
+        {
+          "calls": 410,
+          "triangles": 9166,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 960,
+          "h": 600
+        }
+      ],
+      "hiddenPanels": [
+        {
+          "calls": 388,
+          "triangles": 9122,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 388,
+          "triangles": 9122,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 388,
+          "triangles": 9122,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 388,
+          "triangles": 9122,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 388,
+          "triangles": 9122,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 388,
+          "triangles": 9122,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 388,
+          "triangles": 9122,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 388,
+          "triangles": 9122,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        }
+      ],
+      "panels": 11,
+      "restored": [
+        {
+          "calls": 410,
+          "triangles": 9166,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 410,
+          "triangles": 9166,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 410,
+          "triangles": 9166,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 410,
+          "triangles": 9166,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 410,
+          "triangles": 9166,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 410,
+          "triangles": 9166,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 410,
+          "triangles": 9166,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 410,
+          "triangles": 9166,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        }
+      ],
+      "narrowFOV": [
+        {
+          "calls": 320,
+          "triangles": 7078,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 320,
+          "triangles": 7078,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 320,
+          "triangles": 7078,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 320,
+          "triangles": 7078,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 320,
+          "triangles": 7078,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 320,
+          "triangles": 7078,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 320,
+          "triangles": 7078,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        },
+        {
+          "calls": 320,
+          "triangles": 7078,
+          "lines": 7,
+          "textures": 11,
+          "geometries": 399,
+          "w": 1280,
+          "h": 800
+        }
+      ],
+      "css": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 800
+      }
+    }
+  }
+}

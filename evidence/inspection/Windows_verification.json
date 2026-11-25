@@ -1,0 +1,657 @@
+{
+  "mode": "package-220456",
+  "passed": true,
+  "rendered": true,
+  "steps": [
+    {
+      "stage": "initial",
+      "widget": {
+        "Progress": "0/2",
+        "DoorState": "문 잠금장치 · 미확인",
+        "BreakerState": "차단기 · 미확인"
+      },
+      "instructions": [
+        "두 대상을 하나씩 가리킨 뒤 확인하세요"
+      ],
+      "keys": [],
+      "confirmed": [],
+      "session": [
+        "()"
+      ],
+      "confirmed_flags": {
+        "DoorLock": "False",
+        "Breaker": "False"
+      },
+      "focused_actor": [
+        "None"
+      ],
+      "yaw": null
+    },
+    {
+      "stage": "aim_door",
+      "widget": {
+        "Progress": "0/2",
+        "DoorState": "문 잠금장치 · 미확인",
+        "BreakerState": "차단기 · 미확인"
+      },
+      "instructions": [
+        "두 대상을 하나씩 가리킨 뒤 확인하세요"
+      ],
+      "keys": [
+        "One"
+      ],
+      "confirmed": [],
+      "session": [
+        "()"
+      ],
+      "confirmed_flags": {
+        "DoorLock": "False",
+        "Breaker": "False"
+      },
+      "focused_actor": [
+        "/Game/Inspection/BP_InspectionTarget.BP_InspectionTarget_C'/Game/Inspection/L_VRInspection.L_VRInspection:PersistentLevel.BP_InspectionTarget_C_0'"
+      ],
+      "yaw": -17.92792
+    },
+    {
+      "stage": "one_degree_right",
+      "widget": {
+        "Progress": "0/2",
+        "DoorState": "문 잠금장치 · 미확인",
+        "BreakerState": "차단기 · 미확인"
+      },
+      "instructions": [
+        "두 대상을 하나씩 가리킨 뒤 확인하세요"
+      ],
+      "keys": [
+        "Right"
+      ],
+      "confirmed": [],
+      "session": [
+        "()"
+      ],
+      "confirmed_flags": {
+        "DoorLock": "False",
+        "Breaker": "False"
+      },
+      "focused_actor": [
+        "/Game/Inspection/BP_InspectionTarget.BP_InspectionTarget_C'/Game/Inspection/L_VRInspection.L_VRInspection:PersistentLevel.BP_InspectionTarget_C_0'"
+      ],
+      "yaw": -16.927919
+    },
+    {
+      "stage": "one_degree_left",
+      "widget": {
+        "Progress": "0/2",
+        "DoorState": "문 잠금장치 · 미확인",
+        "BreakerState": "차단기 · 미확인"
+      },
+      "instructions": [
+        "두 대상을 하나씩 가리킨 뒤 확인하세요"
+      ],
+      "keys": [
+        "Left"
+      ],
+      "confirmed": [],
+      "session": [
+        "()"
+      ],
+      "confirmed_flags": {
+        "DoorLock": "False",
+        "Breaker": "False"
+      },
+      "focused_actor": [
+        "/Game/Inspection/BP_InspectionTarget.BP_InspectionTarget_C'/Game/Inspection/L_VRInspection.L_VRInspection:PersistentLevel.BP_InspectionTarget_C_0'"
+      ],
+      "yaw": -17.927919
+    },
+    {
+      "stage": "empty_aim",
+      "widget": {
+        "Progress": "0/2",
+        "DoorState": "문 잠금장치 · 미확인",
+        "BreakerState": "차단기 · 미확인"
+      },
+      "instructions": [
+        "두 대상을 하나씩 가리킨 뒤 확인하세요"
+      ],
+      "keys": [
+        "Right",
+        "Right",
+        "Right",
+        "Right",
+        "Right",
+        "Right",
+        "Right",
+        "Right",
+        "Right",
+        "Right",
+        "Right",
+        "Right",
+        "Right",
+        "Right",
+        "Right",
+        "Right",
+        "Right",
+        "Right"
+      ],
+      "confirmed": [],
+      "session": [
+        "()"
+      ],
+      "confirmed_flags": {
+        "DoorLock": "False",
+        "Breaker": "False"
+      },
+      "focused_actor": [
+        "None"
+      ],
+      "yaw": 0.072081
+    },
+    {
+      "stage": "empty_enter",
+      "widget": {
+        "Progress": "0/2",
+        "DoorState": "문 잠금장치 · 미확인",
+        "BreakerState": "차단기 · 미확인"
+      },
+      "instructions": [
+        "두 대상을 하나씩 가리킨 뒤 확인하세요"
+      ],
+      "keys": [
+        "Enter"
+      ],
+      "confirmed": [],
+      "session": [
+        "()"
+      ],
+      "confirmed_flags": {
+        "DoorLock": "False",
+        "Breaker": "False"
+      },
+      "focused_actor": [
+        "None"
+      ],
+      "yaw": null
+    },
+    {
+      "stage": "door",
+      "widget": {
+        "Progress": "1/2",
+        "DoorState": "문 잠금장치 · 확인",
+        "BreakerState": "차단기 · 미확인"
+      },
+      "instructions": [
+        "두 대상을 하나씩 가리킨 뒤 확인하세요"
+      ],
+      "keys": [
+        "One",
+        "Enter"
+      ],
+      "confirmed": [
+        "DoorLock"
+      ],
+      "session": [
+        "(\"DoorLock\")"
+      ],
+      "confirmed_flags": {
+        "DoorLock": "True",
+        "Breaker": "False"
+      },
+      "focused_actor": [
+        "/Game/Inspection/BP_InspectionTarget.BP_InspectionTarget_C'/Game/Inspection/L_VRInspection.L_VRInspection:PersistentLevel.BP_InspectionTarget_C_0'"
+      ],
+      "yaw": null
+    },
+    {
+      "stage": "duplicate_door",
+      "widget": {
+        "Progress": "1/2",
+        "DoorState": "문 잠금장치 · 확인",
+        "BreakerState": "차단기 · 미확인"
+      },
+      "instructions": [
+        "두 대상을 하나씩 가리킨 뒤 확인하세요"
+      ],
+      "keys": [
+        "Enter"
+      ],
+      "confirmed": [
+        "DoorLock"
+      ],
+      "session": [
+        "(\"DoorLock\")"
+      ],
+      "confirmed_flags": {
+        "DoorLock": "True",
+        "Breaker": "False"
+      },
+      "focused_actor": [
+        "/Game/Inspection/BP_InspectionTarget.BP_InspectionTarget_C'/Game/Inspection/L_VRInspection.L_VRInspection:PersistentLevel.BP_InspectionTarget_C_0'"
+      ],
+      "yaw": null
+    },
+    {
+      "stage": "aim_breaker",
+      "widget": {
+        "Progress": "1/2",
+        "DoorState": "문 잠금장치 · 확인",
+        "BreakerState": "차단기 · 미확인"
+      },
+      "instructions": [
+        "두 대상을 하나씩 가리킨 뒤 확인하세요"
+      ],
+      "keys": [
+        "Two"
+      ],
+      "confirmed": [
+        "DoorLock"
+      ],
+      "session": [
+        "(\"DoorLock\")"
+      ],
+      "confirmed_flags": {
+        "DoorLock": "True",
+        "Breaker": "False"
+      },
+      "focused_actor": [
+        "/Game/Inspection/BP_InspectionTarget.BP_InspectionTarget_C'/Game/Inspection/L_VRInspection.L_VRInspection:PersistentLevel.BP_InspectionTarget_C_1'"
+      ],
+      "yaw": null
+    },
+    {
+      "stage": "complete",
+      "widget": {
+        "Progress": "2/2 · 점검 완료",
+        "DoorState": "문 잠금장치 · 확인",
+        "BreakerState": "차단기 · 확인"
+      },
+      "instructions": [
+        "두 대상을 하나씩 가리킨 뒤 확인하세요"
+      ],
+      "keys": [
+        "Enter"
+      ],
+      "confirmed": [
+        "Breaker",
+        "DoorLock"
+      ],
+      "session": [
+        "(\"DoorLock\",\"Breaker\")"
+      ],
+      "confirmed_flags": {
+        "DoorLock": "True",
+        "Breaker": "True"
+      },
+      "focused_actor": [
+        "/Game/Inspection/BP_InspectionTarget.BP_InspectionTarget_C'/Game/Inspection/L_VRInspection.L_VRInspection:PersistentLevel.BP_InspectionTarget_C_1'"
+      ],
+      "yaw": null
+    },
+    {
+      "stage": "aim_reset",
+      "widget": {
+        "Progress": "2/2 · 점검 완료",
+        "DoorState": "문 잠금장치 · 확인",
+        "BreakerState": "차단기 · 확인"
+      },
+      "instructions": [
+        "두 대상을 하나씩 가리킨 뒤 확인하세요"
+      ],
+      "keys": [
+        "Three"
+      ],
+      "confirmed": [
+        "Breaker",
+        "DoorLock"
+      ],
+      "session": [
+        "(\"DoorLock\",\"Breaker\")"
+      ],
+      "confirmed_flags": {
+        "DoorLock": "True",
+        "Breaker": "True"
+      },
+      "focused_actor": [
+        "/Game/Inspection/BP_InspectionReset.BP_InspectionReset_C'/Game/Inspection/L_VRInspection.L_VRInspection:PersistentLevel.BP_InspectionReset_C_0'"
+      ],
+      "yaw": null
+    },
+    {
+      "stage": "reset",
+      "widget": {
+        "Progress": "0/2",
+        "DoorState": "문 잠금장치 · 미확인",
+        "BreakerState": "차단기 · 미확인"
+      },
+      "instructions": [
+        "두 대상을 하나씩 가리킨 뒤 확인하세요"
+      ],
+      "keys": [
+        "Enter"
+      ],
+      "confirmed": [],
+      "session": [
+        "()"
+      ],
+      "confirmed_flags": {
+        "DoorLock": "False",
+        "Breaker": "False"
+      },
+      "focused_actor": [
+        "/Game/Inspection/BP_InspectionReset.BP_InspectionReset_C'/Game/Inspection/L_VRInspection.L_VRInspection:PersistentLevel.BP_InspectionReset_C_0'"
+      ],
+      "yaw": null
+    },
+    {
+      "stage": "breaker_first",
+      "widget": {
+        "Progress": "1/2",
+        "DoorState": "문 잠금장치 · 미확인",
+        "BreakerState": "차단기 · 확인"
+      },
+      "instructions": [
+        "두 대상을 하나씩 가리킨 뒤 확인하세요"
+      ],
+      "keys": [
+        "Two",
+        "Enter"
+      ],
+      "confirmed": [
+        "Breaker"
+      ],
+      "session": [
+        "(\"Breaker\")"
+      ],
+      "confirmed_flags": {
+        "DoorLock": "False",
+        "Breaker": "True"
+      },
+      "focused_actor": [
+        "/Game/Inspection/BP_InspectionTarget.BP_InspectionTarget_C'/Game/Inspection/L_VRInspection.L_VRInspection:PersistentLevel.BP_InspectionTarget_C_1'"
+      ],
+      "yaw": null
+    },
+    {
+      "stage": "repeat_complete",
+      "widget": {
+        "Progress": "2/2 · 점검 완료",
+        "DoorState": "문 잠금장치 · 확인",
+        "BreakerState": "차단기 · 확인"
+      },
+      "instructions": [
+        "두 대상을 하나씩 가리킨 뒤 확인하세요"
+      ],
+      "keys": [
+        "One",
+        "Enter"
+      ],
+      "confirmed": [
+        "Breaker",
+        "DoorLock"
+      ],
+      "session": [
+        "(\"Breaker\",\"DoorLock\")"
+      ],
+      "confirmed_flags": {
+        "DoorLock": "True",
+        "Breaker": "True"
+      },
+      "focused_actor": [
+        "/Game/Inspection/BP_InspectionTarget.BP_InspectionTarget_C'/Game/Inspection/L_VRInspection.L_VRInspection:PersistentLevel.BP_InspectionTarget_C_0'"
+      ],
+      "yaw": null
+    },
+    {
+      "stage": "repeat_reset",
+      "widget": {
+        "Progress": "0/2",
+        "DoorState": "문 잠금장치 · 미확인",
+        "BreakerState": "차단기 · 미확인"
+      },
+      "instructions": [
+        "두 대상을 하나씩 가리킨 뒤 확인하세요"
+      ],
+      "keys": [
+        "Three",
+        "Enter"
+      ],
+      "confirmed": [],
+      "session": [
+        "()"
+      ],
+      "confirmed_flags": {
+        "DoorLock": "False",
+        "Breaker": "False"
+      },
+      "focused_actor": [
+        "/Game/Inspection/BP_InspectionReset.BP_InspectionReset_C'/Game/Inspection/L_VRInspection.L_VRInspection:PersistentLevel.BP_InspectionReset_C_0'"
+      ],
+      "yaw": null
+    },
+    {
+      "stage": "partial",
+      "widget": {
+        "Progress": "1/2",
+        "DoorState": "문 잠금장치 · 확인",
+        "BreakerState": "차단기 · 미확인"
+      },
+      "instructions": [
+        "두 대상을 하나씩 가리킨 뒤 확인하세요"
+      ],
+      "keys": [
+        "One",
+        "Enter"
+      ],
+      "confirmed": [
+        "DoorLock"
+      ],
+      "session": [
+        "(\"DoorLock\")"
+      ],
+      "confirmed_flags": {
+        "DoorLock": "True",
+        "Breaker": "False"
+      },
+      "focused_actor": [
+        "/Game/Inspection/BP_InspectionTarget.BP_InspectionTarget_C'/Game/Inspection/L_VRInspection.L_VRInspection:PersistentLevel.BP_InspectionTarget_C_0'"
+      ],
+      "yaw": null
+    },
+    {
+      "stage": "partial_reset",
+      "widget": {
+        "Progress": "0/2",
+        "DoorState": "문 잠금장치 · 미확인",
+        "BreakerState": "차단기 · 미확인"
+      },
+      "instructions": [
+        "두 대상을 하나씩 가리킨 뒤 확인하세요"
+      ],
+      "keys": [
+        "Three",
+        "Enter"
+      ],
+      "confirmed": [],
+      "session": [
+        "()"
+      ],
+      "confirmed_flags": {
+        "DoorLock": "False",
+        "Breaker": "False"
+      },
+      "focused_actor": [
+        "/Game/Inspection/BP_InspectionReset.BP_InspectionReset_C'/Game/Inspection/L_VRInspection.L_VRInspection:PersistentLevel.BP_InspectionReset_C_0'"
+      ],
+      "yaw": null
+    },
+    {
+      "stage": "hold_enter",
+      "widget": {
+        "Progress": "1/2",
+        "DoorState": "문 잠금장치 · 확인",
+        "BreakerState": "차단기 · 미확인"
+      },
+      "instructions": [
+        "두 대상을 하나씩 가리킨 뒤 확인하세요"
+      ],
+      "keys": [
+        "One",
+        "EnterDown"
+      ],
+      "confirmed": [
+        "DoorLock"
+      ],
+      "session": [
+        "(\"DoorLock\")"
+      ],
+      "confirmed_flags": {
+        "DoorLock": "True",
+        "Breaker": "False"
+      },
+      "focused_actor": [
+        "/Game/Inspection/BP_InspectionTarget.BP_InspectionTarget_C'/Game/Inspection/L_VRInspection.L_VRInspection:PersistentLevel.BP_InspectionTarget_C_0'"
+      ],
+      "yaw": null
+    },
+    {
+      "stage": "aim_while_held",
+      "widget": {
+        "Progress": "1/2",
+        "DoorState": "문 잠금장치 · 확인",
+        "BreakerState": "차단기 · 미확인"
+      },
+      "instructions": [
+        "두 대상을 하나씩 가리킨 뒤 확인하세요"
+      ],
+      "keys": [
+        "Two"
+      ],
+      "confirmed": [
+        "DoorLock"
+      ],
+      "session": [
+        "(\"DoorLock\")"
+      ],
+      "confirmed_flags": {
+        "DoorLock": "True",
+        "Breaker": "False"
+      },
+      "focused_actor": [
+        "/Game/Inspection/BP_InspectionTarget.BP_InspectionTarget_C'/Game/Inspection/L_VRInspection.L_VRInspection:PersistentLevel.BP_InspectionTarget_C_1'"
+      ],
+      "yaw": null
+    },
+    {
+      "stage": "release_enter",
+      "widget": {
+        "Progress": "1/2",
+        "DoorState": "문 잠금장치 · 확인",
+        "BreakerState": "차단기 · 미확인"
+      },
+      "instructions": [
+        "두 대상을 하나씩 가리킨 뒤 확인하세요"
+      ],
+      "keys": [
+        "EnterUp"
+      ],
+      "confirmed": [
+        "DoorLock"
+      ],
+      "session": [
+        "(\"DoorLock\")"
+      ],
+      "confirmed_flags": {
+        "DoorLock": "True",
+        "Breaker": "False"
+      },
+      "focused_actor": [
+        "/Game/Inspection/BP_InspectionTarget.BP_InspectionTarget_C'/Game/Inspection/L_VRInspection.L_VRInspection:PersistentLevel.BP_InspectionTarget_C_1'"
+      ],
+      "yaw": null
+    },
+    {
+      "stage": "press_again",
+      "widget": {
+        "Progress": "2/2 · 점검 완료",
+        "DoorState": "문 잠금장치 · 확인",
+        "BreakerState": "차단기 · 확인"
+      },
+      "instructions": [
+        "두 대상을 하나씩 가리킨 뒤 확인하세요"
+      ],
+      "keys": [
+        "Enter"
+      ],
+      "confirmed": [
+        "Breaker",
+        "DoorLock"
+      ],
+      "session": [
+        "(\"DoorLock\",\"Breaker\")"
+      ],
+      "confirmed_flags": {
+        "DoorLock": "True",
+        "Breaker": "True"
+      },
+      "focused_actor": [
+        "/Game/Inspection/BP_InspectionTarget.BP_InspectionTarget_C'/Game/Inspection/L_VRInspection.L_VRInspection:PersistentLevel.BP_InspectionTarget_C_1'"
+      ],
+      "yaw": null
+    },
+    {
+      "stage": "final_reset",
+      "widget": {
+        "Progress": "0/2",
+        "DoorState": "문 잠금장치 · 미확인",
+        "BreakerState": "차단기 · 미확인"
+      },
+      "instructions": [
+        "두 대상을 하나씩 가리킨 뒤 확인하세요"
+      ],
+      "keys": [
+        "Three",
+        "Enter"
+      ],
+      "confirmed": [],
+      "session": [
+        "()"
+      ],
+      "confirmed_flags": {
+        "DoorLock": "False",
+        "Breaker": "False"
+      },
+      "focused_actor": [
+        "/Game/Inspection/BP_InspectionReset.BP_InspectionReset_C'/Game/Inspection/L_VRInspection.L_VRInspection:PersistentLevel.BP_InspectionReset_C_0'"
+      ],
+      "yaw": null
+    }
+  ],
+  "events": [
+    "0/2",
+    "1/2",
+    "Duplicate ignored",
+    "2/2",
+    "Reset",
+    "0/2",
+    "1/2",
+    "2/2",
+    "Reset",
+    "0/2",
+    "1/2",
+    "Reset",
+    "0/2",
+    "1/2",
+    "2/2",
+    "Reset",
+    "0/2"
+  ],
+  "confirm_started": 13,
+  "screenshots": {
+    "complete": true,
+    "door": true,
+    "initial": true,
+    "reset": true
+  },
+  "errors": []
+}

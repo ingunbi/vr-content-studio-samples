@@ -1,0 +1,116 @@
+{
+  "browser": "158.0.8127.88",
+  "checks": [
+    "opening score",
+    "edit one cell and leave neighbours",
+    "preview locks score",
+    "manual stop",
+    "mute while running",
+    "completed after three cues",
+    "silent run returns to editing when sound requested",
+    "reset restores score",
+    "stereo 12 seconds",
+    "rain changes stereo energy",
+    "muted output",
+    "alternate mix preserves acts one and two within one PCM step",
+    "alternate mix changes act three",
+    "page errors"
+  ],
+  "audio": {
+    "whole": {
+      "rms": [
+        0.03502297213386605,
+        0.027607062842853598
+      ],
+      "windows": [
+        [
+          0.022286941247214035,
+          0.017575761710139942
+        ],
+        [
+          0.03047499282521459,
+          0.028941108365082912
+        ],
+        [
+          0.04748044643234562,
+          0.03376321375901001
+        ]
+      ],
+      "peak": 0.154755100607872,
+      "events": 7
+    },
+    "left": {
+      "rms": [
+        0.021073124585277558,
+        0.014267202707643018
+      ],
+      "windows": [
+        [
+          0.021073124585277558,
+          0.014267202707643018
+        ]
+      ],
+      "peak": 0.11337372660636902,
+      "events": 1
+    },
+    "right": {
+      "rms": [
+        0.014267199893263,
+        0.021073126496243995
+      ],
+      "windows": [
+        [
+          0.014267199893263,
+          0.021073126496243995
+        ]
+      ],
+      "peak": 0.11337374150753021,
+      "events": 1
+    },
+    "silent": {
+      "rms": [
+        0,
+        0
+      ],
+      "windows": [
+        [
+          0,
+          0
+        ]
+      ],
+      "peak": 0,
+      "events": 1
+    },
+    "curtain": {
+      "rms": [
+        0.028077880354253286,
+        0.023509962748671544
+      ],
+      "windows": [
+        [
+          0.022286941247214035,
+          0.017575761710139942
+        ],
+        [
+          0.03047499282521459,
+          0.028941108365082912
+        ],
+        [
+          0.03065402351583731,
+          0.022619900358767486
+        ]
+      ],
+      "peak": 0.16710172593593597,
+      "events": 7
+    }
+  },
+  "comparison": {
+    "first_8s_max_lsb": 0,
+    "first_8s_changed_samples": 0,
+    "last_4s_max_lsb": 5653,
+    "last_4s_changed_samples": 255892
+  },
+  "headset": "미실행",
+  "physical_listening": "청취자 방향 판별·착용 시험 미실행",
+  "measurement": "OfflineAudioContext, 32000 Hz, listener (0,1.6,4), opening score"
+}

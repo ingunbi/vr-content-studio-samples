@@ -1,0 +1,48 @@
+{
+  "format": "post-voyage-1",
+  "completed": true,
+  "lastPort": "home",
+  "minute": 14,
+  "delivered": [
+    "east",
+    "bell"
+  ],
+  "arrivals": [
+    {
+      "at": "buoy",
+      "minute": 2,
+      "wait": false,
+      "delivered": false
+    },
+    {
+      "at": "east",
+      "minute": 6,
+      "wait": false,
+      "delivered": true
+    },
+    {
+      "at": "east",
+      "minute": 7,
+      "wait": true,
+      "delivered": false
+    },
+    {
+      "at": "east",
+      "minute": 8,
+      "wait": true,
+      "delivered": false
+    },
+    {
+      "at": "bell",
+      "minute": 11,
+      "wait": false,
+      "delivered": true
+    },
+    {
+      "at": "home",
+      "minute": 14,
+      "wait": false,
+      "delivered": false
+    }
+  ]
+}

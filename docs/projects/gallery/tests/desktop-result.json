@@ -1,0 +1,309 @@
+{
+  "browser": "158.0.8127.88",
+  "renderer": "WebGL desktop",
+  "steps": [
+    {
+      "target": "floor.desk",
+      "mode": "desk",
+      "focus": null,
+      "view": "front",
+      "cursor": 0,
+      "message": ""
+    },
+    {
+      "target": "desk.publish",
+      "mode": "desk",
+      "focus": null,
+      "view": "front",
+      "cursor": 0,
+      "message": "밤눈 고리 해설을 선택하세요."
+    },
+    {
+      "target": "desk.row0.front",
+      "mode": "desk",
+      "focus": null,
+      "view": "front",
+      "cursor": 0,
+      "message": ""
+    },
+    {
+      "target": "desk.publish",
+      "mode": "desk",
+      "focus": null,
+      "view": "front",
+      "cursor": 0,
+      "message": "밤눈 고리 앞면 단서를 채록하세요."
+    },
+    {
+      "target": "desk.row0.study",
+      "mode": "study",
+      "focus": "ring",
+      "view": "front",
+      "cursor": 0,
+      "message": ""
+    },
+    {
+      "target": "study.record",
+      "mode": "study",
+      "focus": "ring",
+      "view": "front",
+      "cursor": 0,
+      "message": "단서 수첩에 남겼습니다."
+    },
+    {
+      "target": "study.record",
+      "mode": "study",
+      "focus": "ring",
+      "view": "front",
+      "cursor": 0,
+      "message": "이미 채록한 단서입니다."
+    },
+    {
+      "target": "study.desk",
+      "mode": "desk",
+      "focus": null,
+      "view": "front",
+      "cursor": 0,
+      "message": ""
+    },
+    {
+      "target": "desk.row1.study",
+      "mode": "study",
+      "focus": "mirror",
+      "view": "front",
+      "cursor": 0,
+      "message": ""
+    },
+    {
+      "target": "study.side",
+      "mode": "study",
+      "focus": "mirror",
+      "view": "side",
+      "cursor": 0,
+      "message": ""
+    },
+    {
+      "target": "study.record",
+      "mode": "study",
+      "focus": "mirror",
+      "view": "side",
+      "cursor": 0,
+      "message": "단서 수첩에 남겼습니다."
+    },
+    {
+      "target": "study.desk",
+      "mode": "desk",
+      "focus": null,
+      "view": "side",
+      "cursor": 0,
+      "message": ""
+    },
+    {
+      "target": "desk.row1.side",
+      "mode": "desk",
+      "focus": null,
+      "view": "side",
+      "cursor": 0,
+      "message": ""
+    },
+    {
+      "target": "desk.row2.study",
+      "mode": "study",
+      "focus": "route",
+      "view": "front",
+      "cursor": 0,
+      "message": ""
+    },
+    {
+      "target": "study.record",
+      "mode": "study",
+      "focus": "route",
+      "view": "front",
+      "cursor": 0,
+      "message": "단서 수첩에 남겼습니다."
+    },
+    {
+      "target": "study.desk",
+      "mode": "desk",
+      "focus": null,
+      "view": "front",
+      "cursor": 0,
+      "message": ""
+    },
+    {
+      "target": "desk.row2.front",
+      "mode": "desk",
+      "focus": null,
+      "view": "front",
+      "cursor": 0,
+      "message": ""
+    },
+    {
+      "target": "desk.row2.earlier",
+      "mode": "desk",
+      "focus": null,
+      "view": "front",
+      "cursor": 0,
+      "message": ""
+    },
+    {
+      "target": "desk.row1.earlier",
+      "mode": "desk",
+      "focus": null,
+      "view": "front",
+      "cursor": 0,
+      "message": ""
+    },
+    {
+      "target": "desk.publish",
+      "mode": "tour",
+      "focus": null,
+      "view": "front",
+      "cursor": 0,
+      "message": ""
+    },
+    {
+      "target": "tour.next",
+      "mode": "tour",
+      "focus": null,
+      "view": "front",
+      "cursor": 1,
+      "message": ""
+    },
+    {
+      "target": "tour.previous",
+      "mode": "tour",
+      "focus": null,
+      "view": "front",
+      "cursor": 0,
+      "message": ""
+    },
+    {
+      "target": "tour.next",
+      "mode": "tour",
+      "focus": null,
+      "view": "front",
+      "cursor": 1,
+      "message": ""
+    },
+    {
+      "target": "tour.next",
+      "mode": "tour",
+      "focus": null,
+      "view": "front",
+      "cursor": 2,
+      "message": ""
+    },
+    {
+      "target": "tour.next",
+      "mode": "end",
+      "focus": null,
+      "view": "front",
+      "cursor": 2,
+      "message": ""
+    },
+    {
+      "target": "end.desk",
+      "mode": "desk",
+      "focus": null,
+      "view": "front",
+      "cursor": 2,
+      "message": ""
+    },
+    {
+      "target": "desk.row2.front",
+      "mode": "desk",
+      "focus": null,
+      "view": "front",
+      "cursor": 2,
+      "message": ""
+    },
+    {
+      "target": "desk.publish",
+      "mode": "desk",
+      "focus": null,
+      "view": "front",
+      "cursor": 2,
+      "message": "조각 거울 앞면 단서를 채록하세요."
+    },
+    {
+      "target": "desk.row2.study",
+      "mode": "study",
+      "focus": "mirror",
+      "view": "front",
+      "cursor": 2,
+      "message": ""
+    },
+    {
+      "target": "study.record",
+      "mode": "study",
+      "focus": "mirror",
+      "view": "front",
+      "cursor": 2,
+      "message": "단서 수첩에 남겼습니다."
+    },
+    {
+      "target": "study.desk",
+      "mode": "desk",
+      "focus": null,
+      "view": "front",
+      "cursor": 2,
+      "message": ""
+    },
+    {
+      "target": "desk.publish",
+      "mode": "tour",
+      "focus": null,
+      "view": "front",
+      "cursor": 0,
+      "message": ""
+    }
+  ],
+  "sightlines": [
+    {
+      "name": "study.text",
+      "count": 35,
+      "blocked": []
+    },
+    {
+      "name": "study.record",
+      "count": 35,
+      "blocked": []
+    },
+    {
+      "name": "study.desk",
+      "count": 35,
+      "blocked": []
+    },
+    {
+      "name": "tour.text",
+      "count": 35,
+      "blocked": []
+    },
+    {
+      "name": "tour.next",
+      "count": 35,
+      "blocked": []
+    },
+    {
+      "name": "tour.desk",
+      "count": 35,
+      "blocked": []
+    }
+  ],
+  "published": [
+    {
+      "id": "route",
+      "side": "front"
+    },
+    {
+      "id": "ring",
+      "side": "front"
+    },
+    {
+      "id": "mirror",
+      "side": "front"
+    }
+  ],
+  "errors": []
+}

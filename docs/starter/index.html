@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang="ko"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>시선 측정실 · WebXR 제작 실습</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#101e26;color:#eef7f5;font-family:"Malgun Gothic",sans-serif}main{max-width:1200px;margin:auto;padding:clamp(12px,3vw,36px)}h1{font-size:clamp(24px,4vw,42px);margin:.1em 0 .4em}nav,.controls{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:10px 0}a,button{background:#263943;border:1px solid #60747a;border-radius:4px;padding:7px 12px;color:#e5efea;font:inherit;text-decoration:none}a[aria-current],button:enabled:hover{border-color:#ffc57a;color:#ffd69d}button:disabled{opacity:.7}#view{width:100%;height:clamp(280px,55vh,680px);background:#22333d;border:1px solid #61726e}canvas{display:block;width:100%;height:100%;touch-action:none}#help{color:#bfcece}#readout{display:block;min-height:2em;margin:10px 0;color:#ffcd8c;font-size:1.05em}
+</style>
+<main><h1>시선 측정실</h1><nav aria-label="실습 단계">
+<a href="?step=1">관측창</a><a href="?step=2">가림판</a><a href="?step=3">선택 신호</a><a href="?step=4">추적 복귀</a></nav>
+<div id="view"></div><p id="help"></p><div class="controls" id="controls"></div><output id="readout" aria-live="polite"></output></main>
+<script type="module" src="./bench.mjs"></script></html>
